@@ -1,0 +1,9 @@
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe.config
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csprojResolveAssemblyReference.cache
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Form1.resources
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.Properties.Resources.resources
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.csproj.GenerateResource.Cache
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.exe
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\bin\Debug\RomanNumeralConverter.pdb
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.exe
+c:\users\gregory\documents\visual studio 2015\Projects\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\RomanNumeralConverter.pdb
